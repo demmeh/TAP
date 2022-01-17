@@ -4,8 +4,8 @@ import * as higherOrLowerDescription from './pages/higherOrLowerDescription';
 import * as higherOrLowerGame from './pages/higherOrLowerGame';
 import * as sevenToHeavenDescription from './pages/sevenToHeavenDescription';
 import * as dicesDescription from './pages/dicesDescription';
-import * as truthOrDareDescription from './pages/truthOrDareDescription';
-import * as truthOrDareGame from './pages/truthOrDareGame';
+import * as neverHaveIEverDescription from './pages/neverHaveIEverDescription';
+import * as neverHaveIEverGame from './pages/neverHaveIEverGame';
 
 
 export default {
@@ -13,8 +13,8 @@ export default {
   replace,
   higherOrLowerDescription,
   higherOrLowerGame,
-  truthOrDareDescription,
-  truthOrDareGame,
+  neverHaveIEverDescription,
+  neverHaveIEverGame,
   sevenToHeavenDescription,
   dicesDescription,
 

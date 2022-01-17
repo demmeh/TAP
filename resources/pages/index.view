@@ -6,7 +6,7 @@
   <svg pointer-events="visible" id="sevenToHeavenDescription-btn" width="50%" height="50%" x="50%" y="0">
     <image width="50%" height="50%" href="./resources/images/logo_2.png" />
   </svg>
-  <svg pointer-events="visible" id="truthOrDareDescription-btn" width="50%" height="50%" x="0" y="50%">
+  <svg pointer-events="visible" id="neverHaveIEverDescription-btn" width="50%" height="50%" x="0" y="50%">
     <image width="50%" height="50%" href="./resources/images/logo_3.png" />
   </svg>
   <svg pointer-events="visible" id="dicesDescription-btn" width="50%" height="50%" x="50%" y="50%">

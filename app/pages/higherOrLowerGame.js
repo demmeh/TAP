@@ -6,13 +6,11 @@ let imageRandom = null;
 let randomNumber = 1;
 
 export function destroy() {
-  console.log('destroy index page');
   buttonRandom = null;
   imageRandom = null;
 }
 
 export function init() {
-  console.log('init index page');
   buttonRandom = document.getElementById('higherOrLowerGame-svg');
   imageRandom = document.getElementById('higherOrLowerRandom');
 
