@@ -4,6 +4,5 @@
 
     <link rel="import" href="/mnt/sysassets/system_widget.defs" />
 
-    <link rel="import" href="components/button.gui" />
   </defs>
 </svg>

@@ -14,7 +14,7 @@ export function init() {
   buttonBack = document.getElementById('sevenToHeavenDescription-back')
 
   buttonReplace.onclick = () => {
-    switchPage('replace', true);
+    switchPage('sevenToHeavenGame', true);
   };
   buttonBack.onclick = () => {
     switchPage('index');
