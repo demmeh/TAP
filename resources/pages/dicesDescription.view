@@ -1,0 +1,14 @@
+
+<svg id="dicesDescription-svg" viewport-fill="#000000">
+  <textarea fill="white" y="15%" x="28%" width="90%" font-size="25" font-family="System-Bold">Roll the dices!</textarea>
+  <svg id="dicesDescription-back" width="50%" height="50%" x="30%" y="30%">
+  <g transform="rotate(35)">
+    <image id="diceLeft" width="50%" height="50%"  href="./resources/images/dobbelstenen-1.png"/>
+    </g>
+  </svg>
+  <svg id="dicesDescription-back" width="50%" height="50%" x="55%" y="60%">
+  <g transform="rotate(15)">
+    <image id="diceRight" width="50%" height="50%"  href="./resources/images/dobbelstenen-2.png"/>
+  </g>
+  </svg>
+</svg>

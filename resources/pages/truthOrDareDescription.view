@@ -1,0 +1,8 @@
+
+<svg id="truthOrDareDescription-svg" viewport-fill="#000000">
+<svg pointer-events="visible" id="truthOrDareDescription-back" width="50%" height="50%" x="0" y="0">
+  <image x="15%" y="25%" width="30%" height="30%" href="./resources/images/logo_3.png" />
+</svg>
+    <textarea fill="white" y="35%" x="8%" width="90%" font-size="25" font-family="System-Bold">Hier is het de bedoeling dat je eerlijk bent!</textarea>
+    <textarea fill="white" y="60%" x="8%" width="90%" font-size="25" font-family="System-Regular">Er komt telkens een vraag, heb je het al gedaan, neem je een slok. Anders niet.</textarea>
+</svg>
