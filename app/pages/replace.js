@@ -3,10 +3,6 @@ import { switchPage } from '../navigation';
 
 let button = null;
 
-function doSomething() {
-  console.log('hallo replace');
-}
-
 export function destroy() {
   console.log('destroy replace page');
   button = null;
@@ -19,6 +15,4 @@ export function init() {
     destroy();
     switchPage('index');
   };
-
-  doSomething();
 }

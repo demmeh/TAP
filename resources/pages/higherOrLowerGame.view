@@ -1,0 +1,7 @@
+
+<svg id="higherOrLowerGame-svg" viewport-fill="#000000">
+    <textarea fill="white" y="15%" x="25%" width="90%" font-size="25" font-family="System-Bold">Hoger of lager?</textarea>
+    <svg width="100%" height="100%" x="25%" y="35%">
+      <image width="50%" height="65%" id="higherOrLowerRandom" href="./resources/images/kaarten-1.png"/>
+    </svg>
+</svg>

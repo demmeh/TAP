@@ -1,4 +1,8 @@
+
 <svg id="higherOrLowerDescription-svg" viewport-fill="#000000">
-    <textarea fill="white" y="35%" x="5%" width="90%" font-size="25" font-family="System-Bold">Zeg of de volgende kaart hoger of lager zal worden!</textarea>
-    <textarea fill="white" y="60%" x="5%" width="90%" font-size="25" font-family="System-Regular">Als het juist is moet de andere persoon drinken, als het fout is moet jij drinken!</textarea>
+<svg pointer-events="visible" id="higherOrLowerDescription-back" width="50%" height="50%" x="0" y="0">
+  <image x="15%" y="18%" width="40%" height="40%" href="./resources/images/logo_1.png" />
+</svg>
+    <textarea fill="white" y="35%" x="8%" width="90%" font-size="25" font-family="System-Bold">Zeg of de volgende kaart hoger of lager zal worden!</textarea>
+    <textarea fill="white" y="60%" x="8%" width="90%" font-size="25" font-family="System-Regular">Als het juist is moet de andere persoon drinken, als het fout is moet jij drinken!</textarea>
 </svg>

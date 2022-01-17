@@ -1,14 +1,16 @@
 <svg width="100%" width="100%" viewport-fill="#000000">
+<section x="21%" y="21%" width="75%" height="75%">
   <svg pointer-events="visible" id="higherOrLowerDescription-btn" width="50%" height="50%" x="0" y="0">
-    <image x="30%" y="30%" width="60%" height="60%" href="logo_1.png" />
+    <image width="50%" height="50%" href="./resources/images/logo_1.png" />
   </svg>
-  <svg pointer-events="visible" id="2Description-btn" width="50%" height="50%" x="50%" y="0">
-    <image x="10%" y="30%" width="60%" height="60%" href="logo_2.png" />
+  <svg pointer-events="visible" id="sevenToHeavenDescription-btn" width="50%" height="50%" x="50%" y="0">
+    <image width="50%" height="50%" href="./resources/images/logo_2.png" />
   </svg>
-  <svg pointer-events="visible" id="3Description-btn" width="50%" height="50%" x="0" y="50%">
-    <image x="30%" y="0" width="60%" height="60%" href="logo_3.png" />
+  <svg pointer-events="visible" id="truthOrDareDescription-btn" width="50%" height="50%" x="0" y="50%">
+    <image width="50%" height="50%" href="./resources/images/logo_3.png" />
   </svg>
-  <svg pointer-events="visible" id="4Description-btn" width="50%" height="50%" x="50%" y="50%">
-    <image x="10%" y="0" width="60%" height="60%" href="logo_4.png" />
+  <svg pointer-events="visible" id="dicesDescription-btn" width="50%" height="50%" x="50%" y="50%">
+    <image width="50%" height="50%" href="./resources/images/logo_4.png" />
   </svg>
+  </section>
 </svg>

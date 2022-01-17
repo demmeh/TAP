@@ -1,0 +1,8 @@
+
+<svg id="sevenToHeavenDescription-svg" viewport-fill="#000000">
+<svg pointer-events="visible" id="sevenToHeavenDescription-back" width="50%" height="50%" x="0" y="0">
+  <image x="15%" y="18%" width="30%" height="30%" href="./resources/images/logo_2.png" />
+</svg>
+    <textarea fill="white" y="28%" x="8%" width="90%" font-size="25" font-family="System-Bold">Hier is het de bedoeling dat je verder klikt naar een volgende kaart!</textarea>
+    <textarea fill="white" y="60%" x="8%" width="90%" font-size="25" font-family="System-Regular">Op de volgende pagina leggen we uit wat deze kaarten betekenen.</textarea>
+</svg>
